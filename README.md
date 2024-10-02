@@ -2,9 +2,9 @@
 
 # Olá, Sou o Thiago 🧩
 <div>
-	Programando pro hobbie, mas querendo ser profissional.</br>
+	Programando por hobby, mas querendo ser profissional..</br>
 	Estudando e desenvolvendo projetos pessoais.</br>
-	tentando ser um bom programador</br> 🧶
+	Tentando ser um bom programador.</br> 🧶
 </div>
 
 ## Some of my stacks 
