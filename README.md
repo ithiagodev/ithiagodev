@@ -7,45 +7,29 @@
 	Tentando ser um bom programador. 🧶</br> 
 </div>
 
-## Some of my stacks 
+## Meus Conhecimentos, Loading... 
 <div style="display: flex; flex-direction: row; justify-content: flex-center;">
-  <img src="https://img.shields.io/badge/-React-0041a8?style=flat&logo=React&logoColor=white" height="30" alt="React" />
-  <img src="https://img.shields.io/badge/-Remix-0041a8?style=flat&logo=Remix&logoColor=white" height="30" alt="Remix" />
-  <img src="https://img.shields.io/badge/-TS-0041a8?style=flat&logo=TypeScript&logoColor=white" height="30" alt="Typescript" />
-  <img src="https://img.shields.io/badge/-tailwindcss-0041a8?style=flat&logo=TailwindCSS&logoColor=white" height="30" alt="Tailwindcss" />
-  <img src="https://img.shields.io/badge/-Cypress-0041a8?style=flat&logo=cypress&logoColor=white" height="30" alt="Cypress" />
-  <img src="https://img.shields.io/badge/-Jest-0041a8?style=flat&logo=Jest&logoColor=white" height="30" alt="Jest" />
-  <img src="https://img.shields.io/badge/-React Query-0041a8?style=flat&logo=ReactQuery&logoColor=white" height="30" alt="React Query" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" alt="Remix" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" alt="Typescript" />
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: flex-center;">
-  <img src="https://img.shields.io/badge/-Node-4900bf?style=flat&logo=Node.js&logoColor=white" height="30" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/-Express.-4900bf?style=flat&logo=Express&logoColor=white" height="30" alt="ExpressJS" />
-  <img src="https://img.shields.io/badge/-Spring-4900bf?style=flat&logo=Spring&logoColor=white" height="30" alt="Spring" />
-  <img src="https://img.shields.io/badge/-Rails-4900bf?style=flat&logo=RubyonRails&logoColor=white" height="30" alt="Ruby on Rails" />
-  <img src="https://img.shields.io/badge/-Bun-4900bf?style=flat&logo=bun&logoColor=white" height="30" alt="Bun" /> 
-  <img src="https://img.shields.io/badge/-Expo-4900bf?style=flat&logo=Expo&logoColor=white" height="30" alt="Expo" />
-  <img src="https://img.shields.io/badge/-Zod-4900bf?style=flat&logo=zod&logoColor=white" height="30" alt="Zod" />
-  <img src="https://img.shields.io/badge/-Drizzle-4900bf?style=flat&logo=drizzle&logoColor=white" height="30" alt="Drizzle" /> 
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="30" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30" alt="ExpressJS" />
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: flex-center;">
-  <img src="https://img.shields.io/badge/-Mongo DB-c70050?style=flat&logo=MongoDB&logoColor=white" height="30" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-c70050?style=flat&logo=PostgreSQL&logoColor=white" height="30" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-Redis-c70050?style=flat&logo=Redis&logoColor=white" height="30" alt="Redis" />
-  <img src="https://img.shields.io/badge/-Docker-c70050?style=flat&logo=Docker&logoColor=white" height="30" alt="Docker" />  
-  <img src="https://img.shields.io/badge/-AWS-c70050?style=flat&logo=amazonwebservices&logoColor=white" height="30" alt="Amazon AWS" />
-  <img src="https://img.shields.io/badge/-GCP-c70050?style=flat&logo=GoogleCloud&logoColor=white" height="30" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/-Coolify-c70050?style=flat&logo=c&logoColor=white" height="30" alt="Coolify" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="ExpressJS" />
 </div>
 
-## Discord + Github data 
+## Meu Discord + Github
 <div style="display: flex; flex-direction: column">
   <div style="display: flex; flex-direction: row;">
      <img
 	style="min-width: 134px; max-height: 134px;"
 	width="320"
-        src="https://lanyard.kyrie25.me/api/584941534315675676?waveColor=9745F5&waveSpotifyColor=9745F5&theme=chartreuse_dark&bg=000000&animated=false&borderRadius=10px&&idleMessage=wow%20my%20spotify%20isn%27t%20playing%20anything%20right%20now?%20Im%20probably%20focused%20on%20my%20code%20then"
+        src="https://lanyard.kyrie25.me/api/584941534315675676?waveColor=7fff00&waveSpotifyColor=9745F5&theme=chartreuse_dark&bg=000000&animated=false&borderRadius=10px&&idleMessage=wow%20my%20spotify%20isn%27t%20playing%20anything%20right%20now?%20Im%20probably%20focused%20on%20my%20code%20then"
      />
      <img
 	style="min-width: 160px;"
