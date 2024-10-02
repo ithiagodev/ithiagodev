@@ -1,10 +1,10 @@
 
 
-# Hi, I'm Gustavo 👨🏻‍💻
+# Olá, Sou o Thiago 🧩
 <div>
-	I'm a software engineer from Brazil.</br>
-	At the moment working as a full stack and building some personal projects.</br>
-	Check my personal website for more <a href="https://gus.sh/">gus.sh</a> 👾
+	Programando pro hobbie, mas querendo ser profissional.</br>
+	Estudando e desenvolvendo projetos pessoais.</br>
+	tentando ser um bom programador</br> 🧶
 </div>
 
 ## Some of my stacks 
