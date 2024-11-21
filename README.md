@@ -1,4 +1,4 @@
-# Olá, Sou o Thiago 🧩
+# Olá, Sou o Thiago (ThG) 🧩
 <div>
 	Programando por hobby, mas querendo ser profissional...</br>
 	Estudando e desenvolvendo projetos pessoais.</br>
