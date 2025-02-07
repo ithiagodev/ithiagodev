@@ -5,28 +5,39 @@
 	Tentando ser um bom programador. 🧶</br> 
 </div>
 
-## Meus Conhecimentos, Loading... 
-<div style="display: flex; flex-direction: row; justify-content: flex-center;">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" alt="Remix" />
+# Linguagens...
+<div>
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=html,css,js,ts,php,python'/>
+  </a>
 </div>
 
-<div style="display: flex; flex-direction: row; justify-content: flex-center;">
+# frameworks
+<div>
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=django,flask,react'/>
+  </a>
 </div>
 
-<div style="display: flex; flex-direction: row; justify-content: flex-center;">
+# Banco de Dados
+<div>
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=mysql,sqlite'/>
+  </a>
 </div>
 
-## Meu Github
-<img
-	style="min-width: 160px;"
-	height="160"
-        src="https://streak-stats.demolab.com/?user=ithiagodev&theme=chartreuse_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-      />
-   </div>
-   <div style="display: flex; flex-direction: column">
-      <img
-	width="730"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ithiagodev&theme=chartreuse_dark"
-      />
-   </div
+## Meu Github  
+<div>
+  <img
+    style="min-width: 160px;"
+    height="160"
+    src="https://streak-stats.demolab.com/?user=ithiagodev&theme=chartreuse_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+  />
+</div>
+
+<div>
+  <img
+    width="730"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ithiagodev&theme=chartreuse_dark"
+  />
 </div>
