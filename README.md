@@ -15,14 +15,14 @@
 # frameworks
 <div>
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=django,flask,react'/>
+    <img src='https://skillicons.dev/icons?i=django,flask,fastapi,react'/>
   </a>
 </div>
 
 # Banco de Dados
 <div>
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=mysql,sqlite'/>
+    <img src='https://skillicons.dev/icons?i=mysql,sqlite,postgresql'/>
   </a>
 </div>
 
