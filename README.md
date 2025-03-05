@@ -28,6 +28,14 @@
 
 ## Meu Github  
 <div>
+   <img 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithiagodev&layout=compact&langs_count=16&theme=chartreuse-dark" 
+  />
+</div>
+
+<div>
   <img
     style="min-width: 160px;"
     height="160"
