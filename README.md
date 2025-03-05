@@ -2,7 +2,7 @@
 <div>
 	Programando por hobby, mas querendo ser profissional...</br>
 	Estudando e desenvolvendo projetos pessoais.</br>
-	Tentando ser um bom programador. 🧶</br> 
+	Tentando ser um bom programador. 🧃</br> 
 </div>
 
 # Linguagens...
