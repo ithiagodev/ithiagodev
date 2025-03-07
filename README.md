@@ -1,32 +1,32 @@
 # Hello, I'm Thiago (ThG) 🧩
-<div>
-	Programming as a hobby but aiming to go pro...
-	Studying and developing personal projects.
-	Trying to be a good programmer. 🧃</br> 
+<div>	
+	Programming as a hobby but aiming to go pro... </br>
+	Studying and developing personal projects. </br>
+	Trying to be a good programmer. 🧃
 </div>
 
-# Linguagens...
+# Languages...
 <div>
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=html,css,js,python'/>
+    <img src='https://skillicons.dev/icons?i=python,html,css,js'/>
   </a>
 </div>
 
-# frameworks
+# Frameworks
 <div>
   <a href='https://skillicons.dev'>
     <img src='https://skillicons.dev/icons?i=django,react'/>
   </a>
 </div>
 
-# Banco de Dados
+# DataBase
 <div>
   <a href='https://skillicons.dev'>
     <img src='https://skillicons.dev/icons?i=mysql'/>
   </a>
 </div>
 
-## Meu Github  
+## My Github  
 <div>
    <img 
       alt="GitHub Stats" 
