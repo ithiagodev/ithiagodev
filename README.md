@@ -1,8 +1,8 @@
-# Olá, Sou o Thiago (ThG) 🧩
+# Hello, I'm Thiago (ThG) 🧩
 <div>
-	Programando por hobby, mas querendo ser profissional...</br>
-	Estudando e desenvolvendo projetos pessoais.</br>
-	Tentando ser um bom programador. 🧃</br> 
+	Programming as a hobby but aiming to go pro...
+	Studying and developing personal projects.
+	Trying to be a good programmer. 🧃</br> 
 </div>
 
 # Linguagens...
