@@ -8,21 +8,21 @@
 # Linguagens...
 <div>
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=html,css,js,ts,php,python'/>
+    <img src='https://skillicons.dev/icons?i=html,css,js,python'/>
   </a>
 </div>
 
 # frameworks
 <div>
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=django,flask,fastapi,react'/>
+    <img src='https://skillicons.dev/icons?i=django,react'/>
   </a>
 </div>
 
 # Banco de Dados
 <div>
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=mysql,sqlite,postgresql'/>
+    <img src='https://skillicons.dev/icons?i=mysql'/>
   </a>
 </div>
 
