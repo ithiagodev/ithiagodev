@@ -8,7 +8,7 @@
 # Languages...
 <div>
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=python,js,java'/>
+    <img src='https://skillicons.dev/icons?i=python,html,css,js'/>
   </a>
 </div>
 
@@ -16,6 +16,14 @@
 <div>
   <a href='https://skillicons.dev'>
     <img src='https://skillicons.dev/icons?i=mysql'/>
+  </a>
+</div>
+
+# Loading Study
+<div>
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=java,ts,c,cpp,cs'/> </br>
+    <img src='https://skillicons.dev/icons?i=mongo,firebase'/>
   </a>
 </div>
 
