@@ -8,7 +8,7 @@
 # Languages...
 <div>
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=python,js'/>
+    <img src='https://skillicons.dev/icons?i=python,js,java'/>
   </a>
 </div>
 
