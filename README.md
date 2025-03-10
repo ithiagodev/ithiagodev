@@ -8,14 +8,7 @@
 # Languages...
 <div>
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=python,html,css,js'/>
-  </a>
-</div>
-
-# Frameworks
-<div>
-  <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=django,react'/>
+    <img src='https://skillicons.dev/icons?i=python,js'/>
   </a>
 </div>
 
