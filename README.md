@@ -22,8 +22,7 @@
 # Loading Study
 <div>
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=java,ts,c,cpp,cs'/> </br>
-    <img src='https://skillicons.dev/icons?i=mongo,firebase'/>
+    <img src='https://skillicons.dev/icons?i=java,c,cpp'/> </br>
   </a>
 </div>
 
