@@ -1,4 +1,4 @@
-# Hello, I'm Thiago (ThG) 🧩
+# Hi, I'm Thiago (ThG) 🧩
 <div>	
 	Programming as a hobby but aiming to go pro... </br>
 	Studying and developing personal projects. </br>
@@ -31,7 +31,7 @@
    <img 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithiagodev&layout=compact&langs_count=16&theme=chartreuse-dark" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithiagodev&layout=compact&langs_count=20&theme=chartreuse-dark" 
   />
 </div>
 
