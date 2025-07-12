@@ -12,14 +12,14 @@
   </a>
 </div>
 
-# DataBase
+# DataBases...
 <div>
   <a href='https://skillicons.dev'>
     <img src='https://skillicons.dev/icons?i=mysql,mongodb'/>
   </a>
 </div>
 
-# Loading Study
+# Loading Study...
 <div>
   <a href='https://skillicons.dev'>
     <img src='https://skillicons.dev/icons?i=c,cpp,cs'/> </br>
