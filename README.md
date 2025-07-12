@@ -41,7 +41,7 @@
 	    <img
 		style="min-width: 134px; max-height: 134px;"
 		width="320"
-	        src="https://lanyard.kyrie25.dev/api/584941534315675676?imgStyle=square&waveColor=58b200&waveSpotifyColor=58b200&theme=chartreuse_dark&bg=000000&animated=false&borderRadius=10px&&idleMessage=wow%20my%20spotify%20isn%27t%20playing%20anything%20right%20now?%20Im%20probably%20focused%20on%20my%20code%20then"
+	        src="https://lanyard.kyrie25.dev/api/584941534315675676?waveColor=58B200&bg=00000&gradient=46e55b-91e25d-d5e55e-f5c54e&animatedDecoration=true&hideNameplate=false&hideBadges=false&hideActivity=false&hideClan=true&imgStyle=square&hideStatus=false&hideDecoration=false&showDisplayName=false"
 	     />
   	</a>
      <img
