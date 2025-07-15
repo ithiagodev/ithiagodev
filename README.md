@@ -23,7 +23,7 @@
 # Tools...
 <div>
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=git,vscode'/> </br>
+    <img src='https://skillicons.dev/icons?i=git,vscode,docker,aws'/> </br>
   </a>
 </div>
 
