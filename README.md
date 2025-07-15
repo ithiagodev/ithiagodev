@@ -12,6 +12,13 @@
   </a>
 </div>
 
+# Tools...
+<div>
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=git,github'/> </br>
+  </a>
+</div>
+
 # DataBases...
 <div>
   <a href='https://skillicons.dev'>
