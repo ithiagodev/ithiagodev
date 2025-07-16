@@ -66,5 +66,6 @@
    </div
 </div>
 
-<div></div>
+<div>
 <img src="https://raw.githubusercontent.com/ithiagodev/ithiagodev/output/snake.svg" alt="Snake animation" />
+</div>
