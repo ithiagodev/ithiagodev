@@ -10,10 +10,10 @@
 <div align="center">
 
   ### Languages...
-  <img src="https://skillicons.dev/icons?i=py,java,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=py,java,html,css,js,nodejs" />
 
   ### Frameworks...
-  <img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
+  <img src="https://skillicons.dev/icons?i=django,flask" />
 
   ### Databases...
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
