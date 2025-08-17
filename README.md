@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=py,java,html,css,js" />
 
   ### Frameworks...
-  <img src="https://skillicons.dev/icons?i=django,nodejs" />
+  <img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
 
   ### Databases...
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
