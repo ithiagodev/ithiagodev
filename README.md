@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Thiago (ThG) 🧩 </h1>
+<h1 align="center"> Hi, I'm Thiago (!ThG") 🧩 </h1>
 <h4 align="center">	
 	Programming as a hobby but aiming to go pro... </br>
 	Studying and developing personal projects. </br>
