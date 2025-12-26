@@ -12,9 +12,6 @@
   ### Languages...
   <img src="https://skillicons.dev/icons?i=py,java" />
 
-  ### Frameworks...
-  <img src="https://skillicons.dev/icons?i=django,flask" />
-
   ### Databases...
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
 
