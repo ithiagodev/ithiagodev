@@ -10,7 +10,7 @@
 <div align="center">
 
   ### Languages...
-  <img src="https://skillicons.dev/icons?i=py,java,html,css,js,nodejs" />
+  <img src="https://skillicons.dev/icons?i=py,java" />
 
   ### Frameworks...
   <img src="https://skillicons.dev/icons?i=django,flask" />
@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
 
   ### Tools...
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
 </div>
 
