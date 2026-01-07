@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
 
   ### Tools...
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
