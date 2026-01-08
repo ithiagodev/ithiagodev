@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Thiago+Sacramento+Back-End+Developer;Welcome+to+my+GitHub+:%29)](https://github.com/ithiagodev)
 
 <!-- Sobre Mim -->
-<h4 align="center">	
+<h4 align="center">
+	print("Hello World!") </br>
 	Programming as a hobby but aiming to go pro... </br>
 	Studying and developing personal projects. </br>
 	Trying to be a good programmer. 🧃
