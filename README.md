@@ -18,7 +18,10 @@
 <div align="center">
 
   ### Languages...
-  <img src="https://skillicons.dev/icons?i=py,java" />
+  <img src="https://skillicons.dev/icons?i=py,java,html,css,js" />
+  
+  ### Technologies...
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
 
   ### Databases...
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
