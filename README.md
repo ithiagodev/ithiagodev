@@ -31,24 +31,10 @@
 
 </div>
 
-<!--Cursos
-<div align="center">
-  
-| Cursos | Descrição |
-|----------|-------------|
-| 🤖 → **Nome :** | Descrição. 🟢|-->
-
 <!-- Meu Discord e GitHub -->
 ## My Discord & GitHub
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
-    <a href="https://discord.com/users/584941534315675676">
-      <img
-        style="min-width: 134px; max-height: 134px;"
-        width="320"
-        src="https://lanyard.kyrie25.dev/api/584941534315675676?bg=00000&animatedDecoration=true&hideNameplate=false&theme=dark&waveSpotifyColor=58B200&waveColor=58B200&imgStyle=square&gradient=46e55b-91e25d-d5e55e-f5c54e&hideClan=true&hideProfile=false"
-      />
-    </a>
       <img
         style="min-width: 160px;"
         height="160"
